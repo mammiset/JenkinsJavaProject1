@@ -1,6 +1,6 @@
 public class HelloWorld {
 	public static void main(String[] s) {
-		System.out.println("Hello Oracle");
+		System.out.println("Hello Oracle, DevOps training session");
 		
 		for(int i = 0; i<=10; i++) {
 			System.out.println(i);
